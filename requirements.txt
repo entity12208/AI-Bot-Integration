@@ -1,0 +1,6 @@
+Flask==2.0.3
+requests==2.26.0
+SQLAlchemy==1.4.27
+google-cloud
+google-auth
+Werkzeug==2.0.3

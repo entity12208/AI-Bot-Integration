@@ -1,8 +1,9 @@
-flask
-sqlalchemy
-requests
-python-dotenv
-sentence-transformers
-numpy
-flask-limiter
-flask-login
+flask==3.0.0
+sqlalchemy==2.0.23
+requests==2.31.0
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+numpy==1.26.2
+flask-limiter==3.5.0
+flask-login==0.6.3
+gunicorn==21.2.0

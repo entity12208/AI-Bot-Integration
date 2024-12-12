@@ -1,6 +1,6 @@
 # AI Bot Integration
 
-A new and powerful AI built off of Gemini
+A new and powerful AI built off of Gemini.
 
 This project integrates a simple AI that starts with Gemini for responses and slowly learns to work independently using a local machine learning model.
 
